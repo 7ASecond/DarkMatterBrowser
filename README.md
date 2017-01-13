@@ -1,4 +1,4 @@
-# DarkMatterBrowser
+# Dark Matter Browser
 
 The Dark Matter Browser is being developed to allow people to use the internet without fear of persecution from hostile governments, government agencies and individuals.
 
